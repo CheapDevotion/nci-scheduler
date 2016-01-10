@@ -24,5 +24,8 @@
   "homepage": "https://github.com/node-ci/nci-scheduler",
   "dependencies": {
     "cron": "1.1.0"
+  },
+  "peerDependencies": {
+    "nci": "0.9.x"
   }
 }

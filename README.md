@@ -2,6 +2,16 @@
 
 Periodic build runner for nci [nci](https://github.com/node-ci/nci).
 
+
+## Installation
+
+```sh
+npm install nci-scheduler
+```
+
+
+## Usage
+
 To enable add this plugin to the `plugins` section at server config:
 
 ```json
