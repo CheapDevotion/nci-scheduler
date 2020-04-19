@@ -2,6 +2,7 @@
 
 Periodic build runner for nci [nci](https://github.com/node-ci/nci).
 
+[![Npm version](https://img.shields.io/npm/v/nci-scheduler.svg)](https://www.npmjs.org/package/nci-scheduler)
 [![Known Vulnerabilities](https://snyk.io/test/npm/nci-scheduler/badge.svg)](https://snyk.io/test/npm/nci-scheduler)
 
 
