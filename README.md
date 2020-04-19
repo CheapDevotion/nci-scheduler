@@ -2,6 +2,8 @@
 
 Periodic build runner for nci [nci](https://github.com/node-ci/nci).
 
+[![Known Vulnerabilities](https://snyk.io/test/npm/nci-scheduler/badge.svg)](https://snyk.io/test/npm/nci-scheduler)
+
 
 ## Installation
 
