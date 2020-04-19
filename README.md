@@ -38,3 +38,4 @@ parameters:
  - `time` - 6 or 5 (seconds can be omitted) groups cron string
  - `withScmChangesOnly` - if true then build will be started only if there is
 scm changes for project
+ - `buildParams` - params for the build (override project config)
